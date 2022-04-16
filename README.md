@@ -15,13 +15,11 @@ By Nedal Mahanhwe
 
 
    
-    # This project contains two main files 
+   ` Files ` 
    
    *  A notebook of rental analysis that contains all the code have been used. ![](rental_analysis.ipynb)
 
-   * A dashboard of interactive visualizations to explore the market data. ![](rental_analysis_preview.pdf)
-
-
+   
    ### Dwelling Types Per Year 
 
  we calculated  the number of dwelling types per year and Visualized  the results using **bar charts**  and the Pandas **plot function**.
