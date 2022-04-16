@@ -1,6 +1,6 @@
-# Unit 6 - Pythonic Monopoly
+# Pythonic Monopoly
 -----------------------------------------
-by Nedal Mahanhwe 
+By Nedal Mahanhwe 
 
 
 
@@ -11,15 +11,15 @@ by Nedal Mahanhwe
  Harold's company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options and i did this project to help him explor Toronto market 
  
  
-   This goal of this project  is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in Toronto.
+   The goal of this project  is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in Toronto.
 
 
    
     # This project contains two main files 
    
-   *  A notebook of rental analysis that contains all the code have been used (#Rental-Analysis)
+   *  A notebook of rental analysis that contains all the code have been used. ![](rental_analysis.ipynb)
 
-   * A dashboard of interactive visualizations to explore the market data](#Dashboard)
+   * A dashboard of interactive visualizations to explore the market data. ![](rental_analysis_preview.pdf)
 
 
    ### Dwelling Types Per Year 
@@ -44,7 +44,7 @@ To understand rental income trends over time better,we visualized the average (m
 
 ## Average House Value per Year
 
-this section will be helpfull for customer who have adoubt about if they  should expect an increase or decrease in the property value over time so they can determine how long to hold the rental property
+This section will be helpfull for customer who have adoubt about if they  should expect an increase or decrease in the property value over time so they can determine how long to hold the rental property
 
  we calculated and visualized  the average_house_value per year as a ```line chart```.
 
