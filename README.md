@@ -8,16 +8,14 @@ By Nedal Mahanhwe
 
 
 ## Description 
- Harold's company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options and i did this project to help him explor Toronto market 
- 
- 
-   The goal of this project  is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in Toronto.
+
+The goal of this project  is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in Toronto.
 
 
    
    ` Files ` 
    
-   *  A notebook of rental analysis that contains all the code have been used. ![](rental_analysis)
+   *  A notebook of rental analysis that contains all the code have been used. [rental_analysis](rental_analysis)
 
    
    ### Dwelling Types Per Year 
@@ -28,7 +26,7 @@ By Nedal Mahanhwe
  
  |![colored_bar_charts](Images/colored_bar_charts.png) |
 
-![code.snipped](Images/code.snipped.png) | 
+![](Images/code.snipped.png.png) | 
 
 
 
