@@ -17,7 +17,7 @@ By Nedal Mahanhwe
    
    ` Files ` 
    
-   *  A notebook of rental analysis that contains all the code have been used. ![](rental_analysis.ipynb)
+   *  A notebook of rental analysis that contains all the code have been used. ![](rental_analysis)
 
    
    ### Dwelling Types Per Year 
