@@ -107,7 +107,7 @@ we calculated the mean house value for each neighbourhood and then sorted the va
 
 
 
-## Cost Analysis (Optional Challenge)
+## Cost Analysis 
 this part is using Plotly express to create a couple of plots that investors can interactively filter and explore various factors related to the house value of Toronto's neighbourhoods.
 
 
